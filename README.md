@@ -8,7 +8,7 @@ In this project, we're going to address the issue of credit card fraud, one of t
 In Brazil alone, over 12 million people have already fallen victims of financial fraud in the last year. In numbers, that means over US$ 500 mi were lost in the past 12 months.
 
 <p align="center" >
-  <img src="data/illustration-online-payment-with-credit-card_53876-8120.jpg" >
+  <img src="data/illustration-online-payment-with-credit-card_53876-8120.jpg" width= 60%>
 </p>
 
 Among these frauds, those involving credit cards are highly relevant since failure in detecting them means huge losses for both consumers and financial institutions.
@@ -22,5 +22,5 @@ Having great volume of data, a Machine Learning Algorithm that performs just a l
 Continuously improving the performance of Fraud Detection Systems, to inhibit or avoid fraudulent transactions.
 
 <p align="center" >
-  <img src="data/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
