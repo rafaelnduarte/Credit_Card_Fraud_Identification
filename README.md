@@ -21,6 +21,8 @@ Having great volume of data, a Machine Learning Algorithm that performs just a l
 
 Continuously improving the performance of Fraud Detection Systems, to inhibit or avoid fraudulent transactions.
 
+[Click here to see the project](https://colab.research.google.com/drive/15N20U0ghnSrA5yNG7UMw2PRVb9aPam0B?usp=sharing)
+
 <p align="center" >
   <img src="rafaelnd_banner.png" width=70% >
 </p>
